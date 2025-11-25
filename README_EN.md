@@ -1,4 +1,4 @@
-# Vassal Barons - Vassal Creation
+# Vassal Barons - Creation of Vassals
 
 ## 🏰 About the Mod
 
@@ -40,7 +40,7 @@
 
 ## 📋 Changelog
 
-### v1.0 (Initial Release)
+### v1.0.9 (Release)
 - Dialogue system for offering vassalage
 - Selection of available fiefs
 - Creation of clan with custom name
@@ -58,7 +58,7 @@
 Found a bug? Have suggestions? Get in touch:
 
 - [GitHub](https://github.com/R6mulo)
-- [Nexus Mods](https://next.nexusmods.com/profile/R6mulororschach)
+- [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/8579?tab=description)
 
 ---
 
@@ -67,5 +67,3 @@ Found a bug? Have suggestions? Get in touch:
 - This mod aims to enhance Bannerlord's political dynamics in a natural way, compatible with other popular mods.
 - For best results, install on a new campaign or back up your save.
 - Community feedback is always welcome to improve the mod!
-
----
