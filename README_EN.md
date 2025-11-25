@@ -45,9 +45,9 @@
 - Selection of available fiefs
 - Creation of clan with custom name
 - Automatic migration of family members to the clan
+- Multi-language support
 
 ### v1.1 (Planned)
-- Multi-language support
 - Cost to make a familiar NPC a vassal
 - Vassal limit based on the player's leadership level
 
