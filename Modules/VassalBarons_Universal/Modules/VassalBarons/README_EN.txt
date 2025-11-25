@@ -1,5 +1,5 @@
 =====================================
-Vassal Barons - Dynamic Vassal Creation
+Vassal Barons - Creation of Vassals
 =====================================
 
 ■■■ DESCRIPTION ■■■
@@ -25,23 +25,22 @@ A Mount & Blade II: Bannerlord mod that enables:
    - Mods replacing "lord_talk_speak_diplomacy_2" (base dialogue)
 
 ■■■ CREDITS ■■■
-- Author: [Your Name/Nickname]
-- Original code basis: [If applicable]
-- Beta Testers: [List if any]
-- Third-party assets: None identified in current code
+- Author: [R6mulo]
 
 ■■■ CHANGELOG ■■■
-v1.0 (Initial Release)
+v1.0.9 (Release)
 - Dialogue system for vassalage offers
 - Fief selection from player's owned settlements
 - Custom clan naming
 - Automatic family migration to new clan
+- Multi-language support
 
 v1.1 (Planned)
-- Multi-language support
+- Cost to make a familiar NPC a vassal
+- Vassal limit based on the player's leadership level
 - Vassal limit based on player's leadership skill
 
 ■■■ SUPPORT ■■■
 Report bugs/suggestions at:
 - Nexus Mods and GITHUB mod page
-- [https://github.com/R6mulo / https://next.nexusmods.com/profile/R6mulororschach]
+- [https://github.com/R6mulo / https://www.nexusmods.com/mountandblade2bannerlord/mods/8579?tab=description]
