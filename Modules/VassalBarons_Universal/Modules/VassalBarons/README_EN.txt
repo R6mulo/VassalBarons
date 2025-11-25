@@ -21,6 +21,7 @@ A Mount & Blade II: Bannerlord mod that enables:
 ✔ Compatible With:
    - Mods that don't alter lord dialogues
    - Kingdom systems (Kingdom Destruction, Diplomacy, etc.)
+   - Mods Full Conversion
 ✖ Incompatible With:
    - Mods replacing "lord_talk_speak_diplomacy_2" (base dialogue)
 
