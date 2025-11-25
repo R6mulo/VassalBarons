@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModuleInfo>
+  <Id value="VassalBarons"/>
+  <Name value="Vassal Barons"/>
+  <Version value="v1.0.0"/>
+  <SingleplayerModule value="true"/>
+</ModuleInfo>

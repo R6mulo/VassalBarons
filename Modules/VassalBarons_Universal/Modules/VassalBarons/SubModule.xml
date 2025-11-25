@@ -1,0 +1,40 @@
+<Module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd">
+    <Name value="VassalBarons"/>
+    <Id value="VassalBarons"/>
+    <Version value="v1.0.9"/>
+    <DefaultModule value="false"/>
+    <SingleplayerModule value="true"/>
+    <MultiplayerModule value="false"/>
+
+    <DependedModules>
+        <DependedModule Id="Native"/>
+        <DependedModule Id="SandBoxCore"/>
+        <DependedModule Id="Sandbox"/>
+        <DependedModule Id="CustomBattle"/>
+        <DependedModule Id="StoryMode" Optional="true"/>
+    </DependedModules>
+
+    <SubModules>
+        <SubModule>
+            <Name value="VassalBarons"/>
+            <DLLName value="VassalBarons.dll"/>
+            <SubModuleClassType value="VassalBarons.MainModule"/>
+            <Tags>
+                <Tag key="IsNoRenderModeElement" value="false"/>
+            </Tags>
+        </SubModule>
+    </SubModules>
+    
+    <Xmls>
+        <!-- AQUI ESTÁ O SEGREDO: Apontamos explicitamente para o arquivo mestre -->
+        <XmlNode>
+            <XmlName id="GameText" path="vassalbarons_strings"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+				<GameType value="EditorGame"/>
+			</IncludedGameTypes>
+        </XmlNode>
+    </Xmls>
+</Module>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="Español (LA)"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="Me gustaría concederle un feudo y un título."/>
+	<string id="VBARONS_WHICH_FIEF" text="Es un gran honor, mi señor. ¿Qué feudo?"/>
+	<string id="VBARONS_NAME_HOUSE" text="Excelente elección. Nombre de su casa noble."/>
+	<string id="VBARONS_NO_FIEFS" text="No hay feudos para conceder."/>
+	<string id="VBARONS_NO_SUITABLE" text="No se encontró ningún feudo adecuado."/>
+	<string id="VBARONS_CLAN_NAME" text="Nombre del clan"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="Introduzca un nombre para el nuevo clan:"/>
+	<string id="VBARONS_CONFIRM" text="Confirmar"/>
+	<string id="VBARONS_CANCEL" text="Cancelar"/>
+	<string id="VBARONS_INVALID_NAME" text="Nombre demasiado largo o inválido. Inténtalo de nuevo."/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} ahora lidera el Clan {CLAN_NAME} y gobierna {FIEF_NAME}."/>
+	<string id="VBARONS_ASSIGN_FAIL" text="Error al asignar el feudo. Error desconocido."/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} se ha mudado a la Casa {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} ha heredado la Casa {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} heredó la Casa {CLAN_NAME}."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="La casa {CLAN_NAME} fue disuelta."/>
+ </strings>
+</base>

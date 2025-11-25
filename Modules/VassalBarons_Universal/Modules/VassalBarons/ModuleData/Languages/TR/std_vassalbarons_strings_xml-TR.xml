@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="Türkçe"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="Size bir tımar ve unvan vermek istiyorum."/>
+	<string id="VBARONS_WHICH_FIEF" text="Bu büyük bir onur efendim. Hangi tımar?"/>
+	<string id="VBARONS_NAME_HOUSE" text="Mükemmel bir seçim. Soylu hanedanınıza bir isim verin."/>
+	<string id="VBARONS_NO_FIEFS" text="Verilecek tımar bulunamadı."/>
+	<string id="VBARONS_NO_SUITABLE" text="Uygun bir tımar bulunamadı."/>
+	<string id="VBARONS_CLAN_NAME" text="Klan Adı"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="Yeni klan için bir isim girin:"/>
+	<string id="VBARONS_CONFIRM" text="Onayla"/>
+	<string id="VBARONS_CANCEL" text="İptal"/>
+	<string id="VBARONS_INVALID_NAME" text="Ad çok uzun veya geçersiz. Lütfen tekrar deneyin."/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} artık {CLAN_NAME} Klanı'na liderlik ediyor ve {FIEF_NAME}'i yönetiyor."/>
+	<string id="VBARONS_ASSIGN_FAIL" text="Tarım atanamadı. Bilinmeyen bir hata oluştu."/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME}, {CLAN_NAME} Hanesi'ne taşındı."/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME}, {CLAN_NAME} Hanesi'ni devraldı."/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} {CLAN_NAME} Hanesi miras kaldı."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="{CLAN_NAME} Hanesi feshedildi."/>
+ </strings>
+</base>

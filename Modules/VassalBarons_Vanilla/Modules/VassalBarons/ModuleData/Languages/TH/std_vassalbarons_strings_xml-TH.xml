@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="ไทย"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="ข้าพเจ้าขอมอบที่ดินและยศศักดิ์ให้แก่ท่าน"/>
+	<string id="VBARONS_WHICH_FIEF" text="เป็นเกียรติอย่างยิ่งครับท่าน ที่ดินใดหรือครับ"/>
+	<string id="VBARONS_NAME_HOUSE" text="เลือกได้ดีมาก ตั้งชื่อบ้านของท่านให้เหมาะสม"/>
+	<string id="VBARONS_NO_FIEFS" text="ไม่มีที่ดินที่จะมอบ"/>
+	<string id="VBARONS_NO_SUITABLE" text="ไม่พบที่ดินที่เหมาะสม"/>
+	<string id="VBARONS_CLAN_NAME" text="ชื่อตระกูล"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="กรุณาระบุชื่อตระกูลใหม่:"/>
+	<string id="VBARONS_CONFIRM" text="ยืนยัน"/>
+	<string id="VBARONS_CANCEL" text="ยกเลิก"/>
+	<string id="VBARONS_INVALID_NAME" text="ชื่อยาวเกินไปหรือไม่ถูกต้อง โปรดลองอีกครั้ง"/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} ขณะนี้เป็นผู้นำกลุ่ม {CLAN_NAME} และปกครอง {FIEF_NAME}"/>
+	<string id="VBARONS_ASSIGN_FAIL" text="ไม่สามารถกำหนดเขตแดนได้ เกิดข้อผิดพลาดที่ไม่รู้จัก"/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} ได้ย้ายไปที่กลุ่ม {CLAN_NAME}"/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} ได้รับสืบทอดกลุ่ม {CLAN_NAME}"/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} ได้รับสืบทอดกลุ่ม {CLAN_NAME}."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="บ้าน {CLAN_NAME} ถูกยุบแล้ว."/>
+ </strings>
+</base>

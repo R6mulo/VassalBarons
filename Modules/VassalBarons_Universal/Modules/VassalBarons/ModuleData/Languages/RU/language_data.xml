@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Russian" name="Русский" subtitle_extension="RU" supported_iso="RU">
+<LanguageFile xml_path="RU/std_vassalbarons_strings_xml-RU.xml"/>
+</LanguageData>

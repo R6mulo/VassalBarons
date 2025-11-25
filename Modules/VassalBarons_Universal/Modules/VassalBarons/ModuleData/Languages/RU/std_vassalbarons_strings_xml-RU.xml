@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="Русский"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="Я хотел бы пожаловать вам феод и титул."/>
+	<string id="VBARONS_WHICH_FIEF" text="Это большая честь, мой господин. Какой феод?"/>
+	<string id="VBARONS_NAME_HOUSE" text="Отличный выбор. Назовите свой благородный дом."/>
+	<string id="VBARONS_NO_FIEFS" text="Нет феодов для дарения."/>
+	<string id="VBARONS_NO_SUITABLE" text="Подходящего феода не найдено."/>
+	<string id="VBARONS_CLAN_NAME" text="Название клана"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="Введите название нового клана:"/>
+	<string id="VBARONS_CONFIRM" text="Подтвердить"/>
+	<string id="VBARONS_CANCEL" text="Отмена"/>
+	<string id="VBARONS_INVALID_NAME" text="Имя слишком длинное или недопустимое. Попробуйте ещё раз."/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} теперь возглавляет клан {CLAN_NAME} и правит {FIEF_NAME}."/>
+	<string id="VBARONS_ASSIGN_FAIL" text="Не удалось назначить феод. Произошла неизвестная ошибка."/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} перешёл в Дом {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} унаследовал Дом {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} унаследовал Дом {CLAN_NAME}."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="Дом {CLAN_NAME} был распущен."/>
+ </strings>
+</base>

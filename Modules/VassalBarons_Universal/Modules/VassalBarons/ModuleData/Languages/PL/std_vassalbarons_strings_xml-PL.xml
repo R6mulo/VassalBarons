@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="Polski"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="Chciałbym nadać ci lenno i tytuł."/>
+	<string id="VBARONS_WHICH_FIEF" text="To wielki zaszczyt, panie. Które lenno?"/>
+	<string id="VBARONS_NAME_HOUSE" text="Doskonały wybór. Podaj nazwę swojego rodu szlacheckiego."/>
+	<string id="VBARONS_NO_FIEFS" text="Nie ma lenn do nadania."/>
+	<string id="VBARONS_NO_SUITABLE" text="Nie znaleziono odpowiedniego lenna."/>
+	<string id="VBARONS_CLAN_NAME" text="Nazwa klanu"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="Wprowadź nazwę nowego klanu:"/>
+	<string id="VBARONS_CONFIRM" text="Potwierdź"/>
+	<string id="VBARONS_CANCEL" text="Anuluj"/>
+	<string id="VBARONS_INVALID_NAME" text="Nazwa jest za długa lub nieprawidłowa. Spróbuj ponownie."/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} teraz przewodzi klanu {CLAN_NAME} i rządzi {FIEF_NAME}."/>
+	<string id="VBARONS_ASSIGN_FAIL" text="Nie udało się przypisać lenna. Wystąpił nieznany błąd."/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} przeniósł się do rodu {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} odziedziczył rod {CLAN_NAME}."/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} odziedziczył Dom {CLAN_NAME}."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="Dom {CLAN_NAME} został rozwiązany."/>
+ </strings>
+</base>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="日本語"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="領地と称号を授与いたします。"/>
+	<string id="VBARONS_WHICH_FIEF" text="大変光栄でございます、閣下。どちらの領地をご希望ですか？"/>
+	<string id="VBARONS_NAME_HOUSE" text="素晴らしい選択です。貴族の家に名前を付けてください。"/>
+	<string id="VBARONS_NO_FIEFS" text="授与できる領地はありません。"/>
+	<string id="VBARONS_NO_SUITABLE" text="適切な領地が見つかりません。"/>
+	<string id="VBARONS_CLAN_NAME" text="一族名"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="新しい一族の名前を入力してください。"/>
+	<string id="VBARONS_CONFIRM" text="確認"/>
+	<string id="VBARONS_CANCEL" text="キャンセル"/>
+	<string id="VBARONS_INVALID_NAME" text="名前が長すぎるか無効です。もう一度お試しください。"/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME}は現在、氏族{CLAN_NAME}を率い、{FIEF_NAME}を統治しています。"/>
+	<string id="VBARONS_ASSIGN_FAIL" text="領地の割り当てに失敗しました。不明なエラーが発生しました。"/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME}は家{CLAN_NAME}に転居しました。"/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME}は家{CLAN_NAME}を相続しました。"/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME}は家を相続しました{CLAN_NAME}."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="{CLAN_NAME}家は解散しました。"/>
+ </strings>
+</base>

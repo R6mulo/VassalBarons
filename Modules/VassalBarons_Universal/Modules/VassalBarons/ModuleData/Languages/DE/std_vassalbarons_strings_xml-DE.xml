@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+<tags>
+<tag language="Deutsch"/>
+</tags>
+ <strings>
+	<string id="VBARONS_GRANTFIEF_ASK" text="Ich möchte Euch ein Lehen und einen Titel verleihen."/>
+	<string id="VBARONS_WHICH_FIEF" text="Es ist mir eine große Ehre, Mylord. Welches Lehen?"/>
+	<string id="VBARONS_NAME_HOUSE" text="Ausgezeichnete Wahl. Benennt euer Adelsgeschlecht."/>
+	<string id="VBARONS_NO_FIEFS" text="Es gibt keine Lehen zu vergeben."/>
+	<string id="VBARONS_NO_SUITABLE" text="Kein passendes Lehen gefunden."/>
+	<string id="VBARONS_CLAN_NAME" text="Clanname"/>
+	<string id="VBARONS_ENTER_CLAN_NAME" text="Gebt einen Namen für den neuen Clan ein:"/>
+	<string id="VBARONS_CONFIRM" text="Bestätigen"/>
+	<string id="VBARONS_CANCEL" text="Abbrechen"/>
+	<string id="VBARONS_INVALID_NAME" text="Name zu lang oder ungültig. Bitte versuchen Sie es erneut."/>
+	<string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} führt nun Clan {CLAN_NAME} und regiert {FIEF_NAME}."/>
+	<string id="VBARONS_ASSIGN_FAIL" text="Fehler beim Zuweisen des Lehens. Ein unbekannter Fehler ist aufgetreten."/>
+	<string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} ist in Haus {CLAN_NAME} gewechselt."/>
+	<string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} hat Haus {CLAN_NAME} geerbt."/>
+	<string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} hat Haus {CLAN_NAME} geerbt."/>
+	<string id="VBARONS_CLAN_EXTINCT" text="Haus {CLAN_NAME} wurde aufgelöst."/>
+ </strings>
+</base>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="ไทย" name="ไทย" subtitle_extension="th" supported_iso="th-th,th,tha,th-tha" under_development="false">
+<LanguageFile xml_path="TH/std_vassalbarons_strings_xml-TH.xml"/>
+</LanguageData>

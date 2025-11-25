@@ -1,63 +1,73 @@
-###############################################
-# IGNORAR TODO (projeto)
-###############################################
-*.cs
-*.csproj
-*.sln
+##############################
+# IGNORAR ARQIVOS
+##############################
 
-Behaviors/
-Extensions/
-Missions/
-Utilities/
-Compatibility/
-Events/
-Conversations/
-TaleWorlds/
-GUI/
-UI/
-Universal/VassalBarons/   # somente fonte
-VassalBarons/
-Properties/
-SceneObj/
-ModuleData/
-obj/
+# Ignorar por padrão
+*
 
-###############################################
-# IGNORAR BUILD / IDE
-###############################################
+##############################
+# PERMITIR ARQUIVOS ESSENCIAIS NA RAIZ
+##############################
+
+!.gitignore
+!README.md
+!README_EN.md
+
+##############################
+# PERMITIR PASTA MODULES
+##############################
+
+# Permitir a pasta Modules e tudo que está dentro
+!Modules/
+!Modules/**/
+!Modules/**/*.dll
+
+# PROIBIR códigos dentro dos módulos (por segurança)
+Modules/**/*.cs
+Modules/**/*.pdb
+Modules/**/*.csproj
+
+# PERMITIR apenas os arquivos do MOD:
+!Modules/**/ModuleInfo.xml
+!Modules/**/SubModule.xml
+!Modules/**/README*.txt
+!Modules/**/ModuleData/
+!Modules/**/ModuleData/**
+!Modules/**/Languages/
+!Modules/**/Languages/**
+
+##############################
+# PROTEGER SRC (SEU CÓDIGO)
+##############################
+
+src/
+src/**
+!src/              # subir a pasta, mas não o conteúdo
+src/**/*.cs
+src/**/*.xml
+src/**/*.json
+src/**/*.dll
+
+##############################
+# IGNORAR COMPILAÇÃO E IDE
+##############################
+
 bin/
+obj/
 .vs/
-.vscode/
-.idea/
 *.user
 *.suo
-
-###############################################
-# MANTER APENAS AS VERSÕES COMPILADAS
-###############################################
-!Vanilla/
-!Vanilla/**
-
-!Universal/
-!Universal/**
-
-# Permitir DLLs, XMLs e assets dentro das pastas de build
-!*/**/*.dll
-!*/**/*.xml
-!*/**/*.png
-!*/**/*.dds
-!*/**/*.fbx
-
-###############################################
-# TEMP FILES
-###############################################
 *.tmp
 *.log
+*.cache
+*.pdb
+*.exe
+*.dll
+
+##############################
+# IGNORAR SISTEMA OPERACIONAL
+##############################
+
 Thumbs.db
 desktop.ini
 .DS_Store
-
-###############################################
-# ZIPs DE DISTRIBUIÇÃO
-###############################################
-*.zip
