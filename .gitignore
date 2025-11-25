@@ -1,0 +1,63 @@
+###############################################
+# IGNORAR TODO (projeto)
+###############################################
+*.cs
+*.csproj
+*.sln
+
+Behaviors/
+Extensions/
+Missions/
+Utilities/
+Compatibility/
+Events/
+Conversations/
+TaleWorlds/
+GUI/
+UI/
+Universal/VassalBarons/   # somente fonte
+VassalBarons/
+Properties/
+SceneObj/
+ModuleData/
+obj/
+
+###############################################
+# IGNORAR BUILD / IDE
+###############################################
+bin/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+###############################################
+# MANTER APENAS AS VERSÕES COMPILADAS
+###############################################
+!Vanilla/
+!Vanilla/**
+
+!Universal/
+!Universal/**
+
+# Permitir DLLs, XMLs e assets dentro das pastas de build
+!*/**/*.dll
+!*/**/*.xml
+!*/**/*.png
+!*/**/*.dds
+!*/**/*.fbx
+
+###############################################
+# TEMP FILES
+###############################################
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
+
+###############################################
+# ZIPs DE DISTRIBUIÇÃO
+###############################################
+*.zip
