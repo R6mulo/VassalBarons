@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="素晴らしい選択です。貴族の家に名前を付けてください。"/>
 	<string id="VBARONS_NO_FIEFS" text="授与できる領地はありません。"/>
 	<string id="VBARONS_NO_SUITABLE" text="適切な領地が見つかりません。"/>
+	<string id="VBARONS_COST_INFO" text="このアクションには{DENARS_COST}デナルと{INFLUENCE_COST}の影響力が必要です。"/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="十分なリソースがありません（必要なリソース：{DENARS}デナル、{INFLUENCE}の影響力）。"/>
 	<string id="VBARONS_CLAN_NAME" text="一族名"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="新しい一族の名前を入力してください。"/>
 	<string id="VBARONS_CONFIRM" text="確認"/>

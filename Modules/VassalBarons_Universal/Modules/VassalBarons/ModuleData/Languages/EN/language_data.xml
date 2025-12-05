@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData id="VassalBarons" name="VassalBarons" supported_iso="en,pt,pt-br"  text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.EnglishTextProcessor" under_development="false">
-	<LanguageFile xml_path="std_vassalbarons_strings_xml.xml"/>
-</LanguageData>

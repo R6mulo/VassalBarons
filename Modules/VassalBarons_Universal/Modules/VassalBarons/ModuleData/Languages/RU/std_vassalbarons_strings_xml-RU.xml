@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Отличный выбор. Назовите свой благородный дом."/>
 	<string id="VBARONS_NO_FIEFS" text="Нет феодов для дарения."/>
 	<string id="VBARONS_NO_SUITABLE" text="Подходящего феода не найдено."/>
+	<string id="VBARONS_COST_INFO" text="Это действие будет стоить {DENARS_COST} динаров и {INFLUENCE_COST} влияния."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="У вас недостаточно ресурсов (требуется: {DENARS} динаров, {INFLUENCE} влияния)."/>
 	<string id="VBARONS_CLAN_NAME" text="Название клана"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Введите название нового клана:"/>
 	<string id="VBARONS_CONFIRM" text="Подтвердить"/>

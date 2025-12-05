@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="เลือกได้ดีมาก ตั้งชื่อบ้านของท่านให้เหมาะสม"/>
 	<string id="VBARONS_NO_FIEFS" text="ไม่มีที่ดินที่จะมอบ"/>
 	<string id="VBARONS_NO_SUITABLE" text="ไม่พบที่ดินที่เหมาะสม"/>
+	<string id="VBARONS_COST_INFO" text="การดำเนินการนี้จะมีค่าใช้จ่าย {DENARS_COST} ดีนาร์ และ {INFLUENCE_COST} อิทธิพล"/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="คุณมีทรัพยากรไม่เพียงพอ (ต้องการ: {DENARS} ดีนาร์, {INFLUENCE} อิทธิพล)"/>
 	<string id="VBARONS_CLAN_NAME" text="ชื่อตระกูล"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="กรุณาระบุชื่อตระกูลใหม่:"/>
 	<string id="VBARONS_CONFIRM" text="ยืนยัน"/>

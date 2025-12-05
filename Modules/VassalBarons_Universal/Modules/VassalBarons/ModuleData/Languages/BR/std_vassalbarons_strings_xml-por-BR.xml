@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Excelente escolha. Nomeie sua casa nobre."/>
 	<string id="VBARONS_NO_FIEFS" text="Não há feudos para conceder."/>
 	<string id="VBARONS_NO_SUITABLE" text="Nenhum feudo adequado encontrado."/>
+	<string id="VBARONS_COST_INFO" text="Esta ação custará {DENARS_COST} denários e {INFLUENCE_COST} de influência."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="Você não tem recursos suficientes (Necessário: {DENARS} Denarios, {INFLUENCE} Influência)."/>
 	<string id="VBARONS_CLAN_NAME" text="Nome do Clã"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Digite um nome para o novo clã:"/>
 	<string id="VBARONS_CONFIRM" text="Confirmar"/>

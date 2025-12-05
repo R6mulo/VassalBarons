@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="훌륭한 선택입니다. 귀족 가문의 이름을 정하십시오."/>
 	<string id="VBARONS_NO_FIEFS" text="하사할 영지가 없습니다."/>
 	<string id="VBARONS_NO_SUITABLE" text="적합한 영지를 찾을 수 없습니다."/>
+	<string id="VBARONS_COST_INFO" text="이 작업에는 {DENARS_COST}데나르와 {INFLUENCE_COST}영향력이 소모됩니다."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="자원이 부족합니다(필요: {DENARS}데나르, {INFLUENCE}영향력)."/>
 	<string id="VBARONS_CLAN_NAME" text="씨족 이름"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="새 씨족의 이름을 입력하십시오:"/>
 	<string id="VBARONS_CONFIRM" text="확인"/>

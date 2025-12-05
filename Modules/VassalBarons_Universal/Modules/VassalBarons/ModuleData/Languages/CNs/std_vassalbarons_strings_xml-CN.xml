@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="绝佳的选择。请说出您的贵族家族。"/>
 	<string id="VBARONS_NO_FIEFS" text="没有适当的封地可以授予。"/>
 	<string id="VBARONS_NO_SUITABLE" text="未找到合适的封地。"/>
+	<string id="VBARONS_COST_INFO" text="此操作将消耗 {DENARS_COST} 第纳尔和 {INFLUENCE_COST} 影响力。"/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="您的资源不足（必需：{DENARS} 第纳尔，{INFLUENCE} 影响力）。"/>
 	<string id="VBARONS_CLAN_NAME" text="家族名称。"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="请输入新家族的名称。"/>
 	<string id="VBARONS_CONFIRM" text="确认。"/>
