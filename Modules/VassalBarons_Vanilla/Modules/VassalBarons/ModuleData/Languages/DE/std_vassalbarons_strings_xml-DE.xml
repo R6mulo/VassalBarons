@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Ausgezeichnete Wahl. Benennt euer Adelsgeschlecht."/>
 	<string id="VBARONS_NO_FIEFS" text="Es gibt keine Lehen zu vergeben."/>
 	<string id="VBARONS_NO_SUITABLE" text="Kein passendes Lehen gefunden."/>
+	<string id="VBARONS_COST_INFO" text="Diese Aktion kostet {DENARS_COST} Denare und {INFLUENCE_COST} Einfluss."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="Sie verfügen nicht über genügend Ressourcen (Erforderlich: {DENARS} Denare, {INFLUENCE} Einfluss)."/>
 	<string id="VBARONS_CLAN_NAME" text="Clanname"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Gebt einen Namen für den neuen Clan ein:"/>
 	<string id="VBARONS_CONFIRM" text="Bestätigen"/>

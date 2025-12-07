@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Doskonały wybór. Podaj nazwę swojego rodu szlacheckiego."/>
 	<string id="VBARONS_NO_FIEFS" text="Nie ma lenn do nadania."/>
 	<string id="VBARONS_NO_SUITABLE" text="Nie znaleziono odpowiedniego lenna."/>
+	<string id="VBARONS_COST_INFO" text="Ta akcja będzie kosztować {DENARS_COST} denarów i {INFLUENCE_COST} wpływów."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="Nie masz wystarczających zasobów (wymagane: {DENARS} denarów, {INFLUENCE} wpływów)."/>
 	<string id="VBARONS_CLAN_NAME" text="Nazwa klanu"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Wprowadź nazwę nowego klanu:"/>
 	<string id="VBARONS_CONFIRM" text="Potwierdź"/>

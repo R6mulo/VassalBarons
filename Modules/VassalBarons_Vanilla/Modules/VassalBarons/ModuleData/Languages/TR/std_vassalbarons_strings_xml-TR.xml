@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Mükemmel bir seçim. Soylu hanedanınıza bir isim verin."/>
 	<string id="VBARONS_NO_FIEFS" text="Verilecek tımar bulunamadı."/>
 	<string id="VBARONS_NO_SUITABLE" text="Uygun bir tımar bulunamadı."/>
+	<string id="VBARONS_COST_INFO" text="Bu eylem {DENARS_COST} dinar ve {INFLUENCE_COST} nüfuz maliyetine yol açacaktır."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="Yeterli kaynağınız yok (Gereken: {DENARS} Dinar, {INFLUENCE} Etki)."/>
 	<string id="VBARONS_CLAN_NAME" text="Klan Adı"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Yeni klan için bir isim girin:"/>
 	<string id="VBARONS_CONFIRM" text="Onayla"/>

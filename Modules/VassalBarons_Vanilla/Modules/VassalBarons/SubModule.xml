@@ -1,7 +1,7 @@
 <Module xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/BUTR/Bannerlord.XmlSchemas/master/SubModule.xsd">
     <Name value="VassalBarons"/>
     <Id value="VassalBarons"/>
-    <Version value="v1.0.9"/>
+    <Version value="v1.1.2"/>
     <DefaultModule value="false"/>
     <SingleplayerModule value="true"/>
     <MultiplayerModule value="false"/>
@@ -12,6 +12,7 @@
         <DependedModule Id="Sandbox"/>
         <DependedModule Id="CustomBattle"/>
         <DependedModule Id="StoryMode" Optional="true"/>
+		<DependedModule Id="Bannerlord.MBOptionScreen" Optional="true"/>
     </DependedModules>
 
     <SubModules>

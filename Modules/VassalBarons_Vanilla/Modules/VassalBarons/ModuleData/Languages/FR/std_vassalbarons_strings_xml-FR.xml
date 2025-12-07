@@ -9,6 +9,8 @@
 	<string id="VBARONS_NAME_HOUSE" text="Excellent choix. Nommez votre maison noble."/>
 	<string id="VBARONS_NO_FIEFS" text="Aucun fief à octroyer."/>
 	<string id="VBARONS_NO_SUITABLE" text="Aucun fief approprié trouvé."/>
+	<string id="VBARONS_COST_INFO" text="Cette action coûtera {DENARS_COST} denars et {INFLUENCE_COST} d'influence."/>
+	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="Vous ne disposez pas de suffisamment de ressources (Requis : {DENARS} denars, {INFLUENCE} d'influence)."/>
 	<string id="VBARONS_CLAN_NAME" text="Nom du clan"/>
 	<string id="VBARONS_ENTER_CLAN_NAME" text="Saisissez un nom pour le nouveau clan :"/>
 	<string id="VBARONS_CONFIRM" text="Confirmer"/>
