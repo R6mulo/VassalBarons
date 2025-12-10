@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<base>
-  <strings>
-    <string id="VBARONS_GRANTFIEF_ASK" text="I would like to grant you a fief and a title." />
-    <string id="VBARONS_WHICH_FIEF" text="It is a great honor, my lord. Which fief?" />
-    <string id="VBARONS_NAME_HOUSE" text="Excellent choice. Name your noble house." />
-    <string id="VBARONS_NO_FIEFS" text="There are no fiefs to grant." />
-    <string id="VBARONS_NO_SUITABLE" text="No suitable fief found." />
-	<string id="VBARONS_COST_INFO" text="This action will cost {DENARS_COST} denars and {INFLUENCE_COST} influence."/>
-	<string id="VBARONS_NOT_ENOUGH_RESOURCES" text="You do not have enough resources (Required: {DENARS} Denars, {INFLUENCE} Influence)."/>
-    <string id="VBARONS_CLAN_NAME" text="Clan Name" />
-    <string id="VBARONS_ENTER_CLAN_NAME" text="Enter a name for the new clan:" />
-    <string id="VBARONS_CONFIRM" text="Confirm" />
-    <string id="VBARONS_CANCEL" text="Cancel" />
-    <string id="VBARONS_INVALID_NAME" text="Name too long or invalid. Please try again." />
-    <string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} now leads Clan {CLAN_NAME} and rules {FIEF_NAME}." />
-    <string id="VBARONS_ASSIGN_FAIL" text="Failed to assign the fief. An unknown error occurred." />
-    <string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} has moved to House {CLAN_NAME}." />
-  </strings>
-</base>
+<strings>
+    <string id="VBARONS_GRANTFIEF_ASK" text="I would like to grant you a fief and a title."/>
+    <string id="VBARONS_WHICH_FIEF" text="It is a great honor, my lord. Which fief?"/>
+    <string id="VBARONS_NAME_HOUSE" text="Excellent choice. Name your noble house."/>
+    <string id="VBARONS_NO_FIEFS" text="There are no fiefs to grant."/>
+    <string id="VBARONS_NO_SUITABLE" text="No suitable fief found."/>
+    <string id="VBARONS_CLAN_NAME" text="Clan Name"/>
+    <string id="VBARONS_ENTER_CLAN_NAME" text="Enter a name for the new clan:"/>
+    <string id="VBARONS_CONFIRM" text="Confirm"/>
+    <string id="VBARONS_CANCEL" text="Cancel"/>
+    <string id="VBARONS_INVALID_NAME" text="Name too long or invalid. Please try again."/>
+    <string id="VBARONS_ASSIGN_OK" text="{HERO_NAME} now leads Clan {CLAN_NAME} and rules {FIEF_NAME}."/>
+    <string id="VBARONS_ASSIGN_FAIL" text="Failed to wait for the fief. An unknown error occurred."/>
+    <string id="VBARONS_MOVED_TO_CLAN" text="{HERO_NAME} has moved to House {CLAN_NAME}."/>
+    <string id="VBARONS_INHERIT_CHILD" text="{HERO_NAME} has inherited House {CLAN_NAME}."/>
+    <string id="VBARONS_INHERIT_SPOUSE" text="{SPOUSE_NAME} inherited House {CLAN_NAME}."/>
+    <string id="VBARONS_CLAN_EXTINCT" text="House {CLAN_NAME} was dissolved."/>
+    <string id="VBARONS_COST_INFO" text="This action will cost {GOLD_COST} denars and {INFLUENCE_COST} influence."/>
+    <string id="VBARONS_NOT_ENOUGH_RESOURCES" text="You do not have enough resources (Required: {GOLD} Gold, {INFLUENCE} Influence)."/>
+</strings>
