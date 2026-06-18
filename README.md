@@ -46,10 +46,15 @@
 - Criação de clã com nome personalizado
 - Migração automática de familiares para o clã
 
-### v1.1 (Planejado)
+### v1.1
 - Suporte a múltiplos idiomas
 - Custo para tornar NPC familiar em vassalo
 - Limite de vassalos baseado no nível de liderança do jogador
+- Tradução para MCM
+  
+### v1.2 (Planejado)
+- Novos recursos
+- Melhorias
 
 ---
 
